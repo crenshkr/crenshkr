@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi, I'm Khalil! 👋
 
-<!--
-**crenshkr/crenshkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I have experience with:
 
-Here are some ideas to get you started:
+- Javascript: React, Node.js, Express, ES6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Databases:
+  SQL
+
+- Styling:
+  CSS3, SCSS
+  General Tools:
+
+- Git, Webpack
+
+## When it comes to my life, it's at its best when it involves:
+
+- 💻 Code
+
+- 🎨 Art
+
+- 🤝 Community
+
+## I'm an avid learner. Here's what im working on:
+
+- 🌱 I'm focusing on React.
+
+- 🛠 I'm also in the process of fixing up my personal website: [www.khalildev.com](www.khalildev.com)
+
+- 🐶 My pet project is a flashcard app, designed to help me study and reinforce my coding knowledge.
+
+- 💬 I love talking about programming. Contact me at any time.
+
+- 📫 How to reach me: Crenshaw.Khalil@Gmail.com
+
+## More about me:
+
+- I love digital art.
+
+- I have a knack for crafting things, and I'm also a skilled welder.
+
+- My favorite thing to do when traveling is trying the local foods.
